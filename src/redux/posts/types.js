@@ -1,0 +1,5 @@
+export const POSTS_FETCHED = 'FETCH_POSTS'
+export const INCREASE_PAGE = 'INCREASE_PAGE'
+export const FETCHING_START = 'FETCHING_START'
+export const FETCHING_END = 'FETCHING_END'
+export const POSTS_ARE_OVER = 'POSTS_ARE_OVER'
